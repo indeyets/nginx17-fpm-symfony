@@ -1,0 +1,1 @@
+This is a docker container inherited from official nginx image. It is optimized for running Symfony 2 application via PHP-FPM.
